@@ -1,0 +1,54 @@
+[
+    {
+        "name": "zsh",
+        "paths": [
+            "$HOME/.zshrc",
+            "$HOME/.p10k.zsh"
+        ]
+    },
+    {
+        "name": "nvim",
+        "paths": [
+            "$HOME/.vimrc",
+            "$HOME/.vim",
+            "$HOME/.p10k.zsh",
+            "$HOME/.config/nvim"
+        ]
+    },
+    {
+        "name": "kitty",
+        "paths": [
+            "$HOME/.config/kitty"
+        ]
+    },
+    {
+        "name": "ranger",
+        "paths": [
+            "$HOME/.config/ranger"
+        ]
+    },
+    {
+        "name": "rofi",
+        "paths": [
+            "$HOME/.config/rofi"
+        ]
+    },
+    {
+        "name": "qtile",
+        "paths": [
+            "$HOME/.config/qtile"
+        ]
+    },
+    {
+        "name": "ovmf",
+        "paths": [
+            "/usr/share/ovmf"
+        ]
+    },
+    {
+        "name": "wal",
+        "paths": [
+            "$HOME/.config/wal"
+        ]
+    }
+]
